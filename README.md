@@ -1,10 +1,10 @@
-# diff_drive_ugv
+#OBSTACLE  AVOIDANCE  UGV
+
 Code of a self assembled differential drive UGV powered by Arduino
 
-OBSTACLE  AVOIDANCE  UGV
 
-STEP 1
-COMPONENTS REQUIRED:
+##STEP 1
+###COMPONENTS REQUIRED:
     • 2WD Robot kit.
     • Arduino UNO.
     • H-Bridge.
@@ -12,8 +12,8 @@ COMPONENTS REQUIRED:
     • Ultrasonic Sensors.
     • Connecting Wires.
 
-STEP 2
-ASSEMBLY:
+##STEP 2
+###ASSEMBLY:
     • First of all we need to Assemble our UGV kit (in our case it is 2WD mobile robot).
     • Here is a youtube link to assemble that specific kit:
       https://www.youtube.com/watch?v=R3MvNrHvl0E
