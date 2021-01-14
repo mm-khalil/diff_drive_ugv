@@ -32,3 +32,7 @@ Code of a self assembled differential drive UGV powered by Arduino
     • For obstacle avoidance we use 2 Ultrasonic sensors.
     • Complete description and installation see this video:
       https://www.youtube.com/watch?v=WslzsHDYuF0
+      
+ ## STEP 5
+### YOUTUBE VIDEO LINK:
+https://youtu.be/aEnlj3URzMI
